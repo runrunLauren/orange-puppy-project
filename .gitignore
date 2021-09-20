@@ -1,3 +1,13 @@
+azcopy
+.python-version
+Dataset/**/
+testing_set/**/
+training_set/**/
+.idea/*
+x.pickle
+y.pickle
+**.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

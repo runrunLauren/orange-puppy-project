@@ -1,0 +1,6 @@
+https://lilablobssc.blob.core.windows.net/snapshot-safari/KAR/KAR_public?st=2020-01-01T00%3A00%3A00Z&se=2034-01-01T00%3A00%3A00Z&sp=rl&sv=2019-07-07&sr=c&sig=0qPMsAsGwKMGLGuPfoNKzDa5Agi5QEC73wLNkMEY0KE%3D
+https://lilablobssc.blob.core.windows.net/snapshot-safari/KGA/KGA_public?st=2020-01-01T00%3A00%3A00Z&se=2034-01-01T00%3A00%3A00Z&sp=rl&sv=2019-07-07&sr=c&sig=0qPMsAsGwKMGLGuPfoNKzDa5Agi5QEC73wLNkMEY0KE%3D
+https://lilablobssc.blob.core.windows.net/snapshot-safari/ENO/ENO_public?st=2020-01-01T00%3A00%3A00Z&se=2034-01-01T00%3A00%3A00Z&sp=rl&sv=2019-07-07&sr=c&sig=0qPMsAsGwKMGLGuPfoNKzDa5Agi5QEC73wLNkMEY0KE%3D
+https://lilablobssc.blob.core.windows.net/snapshot-safari/CDB/CDB_public?st=2020-01-01T00%3A00%3A00Z&se=2034-01-01T00%3A00%3A00Z&sp=rl&sv=2019-07-07&sr=c&sig=0qPMsAsGwKMGLGuPfoNKzDa5Agi5QEC73wLNkMEY0KE%3D
+https://lilablobssc.blob.core.windows.net/snapshot-safari/MTZ/MTZ_public?st=2020-01-01T00%3A00%3A00Z&se=2034-01-01T00%3A00%3A00Z&sp=rl&sv=2019-07-07&sr=c&sig=0qPMsAsGwKMGLGuPfoNKzDa5Agi5QEC73wLNkMEY0KE%3D
+https://lilablobssc.blob.core.windows.net/snapshot-safari/KRU/KRU_public?st=2020-01-01T00%3A00%3A00Z&se=2034-01-01T00%3A00%3A00Z&sp=rl&sv=2019-07-07&sr=c&sig=0qPMsAsGwKMGLGuPfoNKzDa5Agi5QEC73wLNkMEY0KE%3D
