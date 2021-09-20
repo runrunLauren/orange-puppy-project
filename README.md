@@ -37,7 +37,7 @@ This project was built on a specific version of Python and Keras. If you wish to
  - run `python scripts/process.py`
 
 #### Create the machine learning model
-- run 'python scripts/model.py'. Make sure to input a name for the model when prompted.
+- run `python scripts/model.py`. Make sure to input a name for the model when prompted.
 
 ### Evaluating pictures
  - By default, images in 'test_set' will be evaluated.
